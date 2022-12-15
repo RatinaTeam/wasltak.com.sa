@@ -221,7 +221,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "مؤسسة وصلتك للخدمات اللوجستية",
+    "name": "وصلتك للخدمات اللوجستية",
     "versionFirst": "5.4.1",
     "siteFonts": [
       {
@@ -259,7 +259,7 @@
     ],
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/untitled-1-128x128.png",
-    "mbrsiteDomain": "qs2od4erg3",
+    "mbrsiteDomain": "qoulx2l1au",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -916,7 +916,7 @@
             },
             ".mbr-text": {
               "margin-top": "1.4rem",
-              "color": "#d40029"
+              "color": "#000000"
             },
             "h2": {
               "text-align": "center",
